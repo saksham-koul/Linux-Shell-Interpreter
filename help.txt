@@ -1,0 +1,26 @@
+
+HELP PAGE
+---------
+
+-> This page contains the list of all valid commands that can be executed on this shell.
+-> This shell can implement a total of 11 commands: 6 internal commands/shell builtins, and 5 external commands as listed here - 
+
+# Internal commands/Shell builtins
+----------------------------------
+	- chd [relative_path] (cd)
+	- hisstory [-clear, -write] (history)
+	- cwd (pwd)
+	- hellp (help)
+	- ecko [-n, -e] ["..."] (echo)
+	- quit (exit)
+
+# External commands
+-------------------
+	- datetime [-g, -u] (date)
+	- makedir [-v, -m] [dir_name] (mkdir)
+	- list [-a, -l] (ls)
+	- kat [>] [file1, file2, ...] [>] [file1, file2, ...] (cat)
+	- remove [-v, -d] [file_name, dir_name] (rm)
+
+-> The things mentioned inside square brackets refer to the flags and arguments that are applicable on some of the commands.
+-> Some of these commands can also run without any flags or arguments.

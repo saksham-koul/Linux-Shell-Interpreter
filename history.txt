@@ -1,0 +1,18 @@
+ hisstory
+hisstory -write 
+sdfdsnfsd
+hisstory
+kat > file
+kat file
+kat file1 > file2
+kat > file2
+quit
+quit
+quit
+list -l
+hellp
+datetime
+remove n -v notes
+remove n -v notes.txt
+remove -v notes
+quit
