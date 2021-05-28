@@ -2,6 +2,7 @@
 Created a mini Linux shell interpreter in C.
 
 -> This page contains the list of all valid commands that can be executed on this shell.
+
 -> This shell can implement a total of 11 commands: 6 internal commands/shell builtins, and 5 external commands as listed here - 
 
 # Internal commands/Shell builtins
