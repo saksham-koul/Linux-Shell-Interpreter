@@ -28,4 +28,5 @@ Created a mini Linux shell interpreter in C.
         *flags handled = -v: verbose - prints a msg after removing the file passed as argument; -d: to remove directory
 
 -> The things mentioned inside square brackets refer to the flags and arguments that are applicable on some of the commands.
+
 -> Some of these commands can also run without any flags or arguments.
