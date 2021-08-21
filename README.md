@@ -5,7 +5,7 @@ Created a mini Linux shell interpreter in C.
 
 * This shell can implement a total of 11 commands: 6 internal commands/shell builtins, and 5 external commands as listed here - 
 
-## Internal commands/Shell builtins
+## Internal commands/ Shell builtins
 
 * `chd [relative_path]` (cd) (no flags)
 * `hisstory [-clear, -write]` (history)
